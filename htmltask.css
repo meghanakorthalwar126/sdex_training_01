@@ -1,0 +1,51 @@
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+#userid{
+    /* margin-left: 40px; */
+    margin-top: 10px;
+    
+}
+#id{
+    /* margin-left:63px ; */
+    margin-top: 10px;
+}
+#Title{
+    /* margin-left: 65px; */
+    margin-top: 12px;
+}
+#Completed{
+    margin-left: 20px ;
+    /* margin-top: 10px; */
+}
+#but{
+    margin-top: 35px;
+    margin-left: 30px;
+    width: 100px;
+}
+th{
+    background-color: rgb(197, 227, 227);
+    color: blue;
+}
+body{
+    margin: auto;
+    width: 70%;
+    padding-top: 100px;
+}
+#myform{
+    padding: 50px;
+    /* padding-left: 100px; */
+    border: 2px solid;
+    width: 300px;
+    background-color: rgb(59, 127, 127);
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+table{
+    height: 50px;
+}
